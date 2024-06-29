@@ -9,7 +9,7 @@ This project is a Python script that automates the process of checking exam resu
 
 ### Automation
 
-* Automates login to the Landmark University website
+* Automate login to the Landmark University website
 * Navigates to the Exams & Results page
 * Selects the desired session (e.g., 2023/2024) and semester (e.g., Alpha)
 * Retrieves the exam results
