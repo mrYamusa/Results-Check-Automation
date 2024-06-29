@@ -3,7 +3,7 @@ LMU Results Check Automation
 
 ## Introduction
 
-This project is a Python script that automates the process of retrieving exam results from the Landmark University website. It uses Selenium WebDriver to interact with the website, navigate through the login process, and select the desired session and semester to retrieve the results.
+This project is a Python script that automates the process of checking exam results from the Landmark University `FP portal`. It uses Selenium WebDriver to interact with the website, navigate through the login process, and select the desired session and semester to retrieve the results.
 
 ## Features
 
